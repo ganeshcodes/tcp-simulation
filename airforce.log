@@ -1,0 +1,75 @@
+2017-12-10 04:32: *** HOST : Airforce *** 
+2017-12-10 04:32: 
+Response from server 
+
+2017-12-10 04:32:  ** TCP PACKET ** 
+ Source Port: 1234 
+ Destination Port: 3001 
+ Sequence Number: 172 
+ Ack Number: 1195
+ flags [0, 0, 0, 1, 0, 1, 0] 
+ Data: 
+2017-12-10 04:32: Sending frame3 to server
+2017-12-10 04:32: MissionTCP: Airforce, You are connected. Start the mission!!
+2017-12-10 04:32: DONE
+2017-12-10 04:33:  ** TCP PACKET ** 
+ Source Port: 2002 
+ Destination Port: 3001 
+ Sequence Number: 1491 
+ Ack Number: 0
+ flags [0, 0, 1, 1, 0, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:33: Code received: Execute **PEPPER THE PEPPER**
+2017-12-10 04:33: Target destroyed!
+2017-12-10 04:33: Sending success message to Jan
+2017-12-10 04:33: Disconnecting from MissionTCP
+2017-12-10 04:39: *** HOST : Airforce *** 
+2017-12-10 04:39: 
+Response from server 
+
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 1234 
+ Destination Port: 3001 
+ Sequence Number: 108 
+ Ack Number: 1014
+ flags [0, 0, 0, 1, 0, 1, 0] 
+ Data: 
+2017-12-10 04:39: Sending frame3 to server
+2017-12-10 04:39: MissionTCP: Airforce, You are connected. Start the mission!!
+2017-12-10 04:39: DONE
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 2002 
+ Destination Port: 3001 
+ Sequence Number: 1239 
+ Ack Number: 0
+ flags [0, 0, 1, 1, 0, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:39: Code received: Execute **PEPPER THE PEPPER**
+2017-12-10 04:39: Target destroyed!
+2017-12-10 04:39: Sending success message to Jan
+2017-12-10 04:39: Disconnecting from MissionTCP
+2017-12-10 04:42: *** HOST : Airforce *** 
+2017-12-10 04:42: 
+Response from server 
+
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 1234 
+ Destination Port: 3001 
+ Sequence Number: 115 
+ Ack Number: 1522
+ flags [0, 0, 0, 1, 0, 1, 0] 
+ Data: 
+2017-12-10 04:42: Sending frame3 to server
+2017-12-10 04:42: MissionTCP: Airforce, You are connected. Start the mission!!
+2017-12-10 04:42: DONE
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 2002 
+ Destination Port: 3001 
+ Sequence Number: 1510 
+ Ack Number: 0
+ flags [0, 0, 1, 1, 0, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:42: Code received: Execute **PEPPER THE PEPPER**
+2017-12-10 04:42: Target destroyed!
+2017-12-10 04:42: Sending success message to Jan
+2017-12-10 04:42: Disconnecting from MissionTCP

@@ -1,0 +1,149 @@
+2017-12-10 04:32: *** HOST : Jan *** 
+2017-12-10 04:32: 
+Response from server 
+
+2017-12-10 04:32:  ** TCP PACKET ** 
+ Source Port: 1234 
+ Destination Port: 2002 
+ Sequence Number: 109 
+ Ack Number: 1257
+ flags [0, 0, 0, 1, 0, 1, 0] 
+ Data: 
+2017-12-10 04:32: Sending frame3 to server
+2017-12-10 04:32: MissionTCP: Jan, You are connected. Start the mission!!
+2017-12-10 04:32: DONE
+2017-12-10 04:32: {'data': " Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n Hot I am not; but hurt I am, and sorely, when I think That thou canst look me in the face and never bleach nor blink-- Me, thine own boyhood's tutor! Go, train the she-wolf's brood Train dogs--that they may rend thee! This, this is gratitude!\n When? When I beat thee, wailing sore yon goats looked on with glee, And bleated; and were dealt with e'en as I had dealt with thee.\n Nay, here are oaks and galingale the hum of housing bees Makes the place pleasant, and the birds are piping in the trees. And here are two cold streamlets; here deeper shadows fall Than yon place owns, and look what cones drop from the pinetree tall.\n Come hither, and trample dainty fern and poppy-blossom sleep On goatskins that are softer than thy fleeces piled three deep. Here will I plant eight milkpails, great Pan's regard to gain, Bound them eight cups full honeycombs shall every cup contain.\n Nay, I want no Lycopas. But hail yon woodsman, do 'Tis Morson--see! his arms are full of bracken--there, by you.\n Ay, you hail him.\n Nay, by the Nymphs, sweet Morson, ne'er for Cometas' sake Stretch thou a point; nor e'er let him undue advantage take. Sibyrtas owns yon wethers; a Thurian is he And here, my friend, Eumares' goats, of Sybaris, you may see.\n The simple truth, most worshipful, is all that I allege I'm not for boasting. But thy wit hath all too keen an edge.\n [Sings] Daphnis the mighty minstrel was less precious to the Nine Than I. I offered yesterday two kids upon their shrine.\n Twin kids hath every goat I milk, save two. My maid, my own, Eyes me and asks 'At milking time, rogue, art thou all alone?'\n Clarissa pelts her goatherd with apples, should he stray By with his goats; and pouts her lip in a quaint charming way.\n Tho' dogrose and anemone are fair in their degree, The rose that blooms by garden-walls still is the rose for me.\n A cushat I will presently procure and give to her Who loves me I know where it sits; up in the juniper.\n Back, lambs, from that wild-olive and be content to browse Here on the shoulder of the hill, beneath the myrtle boughs.\n I have a bowl of cypress-wood I have besides a cup Praxiteles designed them for her they're treasured up.\n Ye locusts that o'erleap my fence, oh let my vines escape Your clutches, I beseech you the bloom is on the grape.\n Those foxes with their bushy tails, I hate to see them crawl Round Micon's homestead and purloin his grapes at evenfall.\n Have you forgot that cudgelling I gave you? At each stroke You grinned and twisted with a grace, and clung to yonder oak.\n There's some one ill--of heartburn. You note it, I presume, Morson? Go quick, and fetch a squill from some old beldam's tomb.\n May Himera flow, not water, but milk and may'st thou blush,Crathis, with wine; and fruitage grow upon every rush.\n My goats are fed on clover and goat's-delight they tread On lentisk leaves; or lie them down, ripe strawberries o'er their head.\n I scorn my maid; for when she took my cushat, she did not Draw with both hands my face to hers and kiss me on the spot.\n Lacon, the nightingale should scarce be challenged by the jay, Nor swan by hoopoe but, poor boy, thou aye wert for a fray.\n By Pan I will! Snort, all my herd of he-goats I shall now O'er Lacon, shepherd as he is, crow ye shall soon see how. I've won, and I could leap sky-high! Ye also dance and skip, My horned ewes in Sybaris' fount to-morrow all shall dip. Ho! you, sir, with the glossy coat and dangerous crest; you dare Look at a ewe, till I have slain my lamb, and ill you'll fare. What! is he at his tricks again? He is, and he will get (Or my name's not Cometas) a proper pounding yet.", 'acknum': 0, 'seqnum': 0, 'urgpointer': '', 'destid': 2002, 'flags': [0, 0, 0, 1, 0, 0, 0], 'sourceid': 2001}
+2017-12-10 04:32: Received file from destination 2001
+2017-12-10 04:33:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 64 
+ Ack Number: 14
+ flags [0, 0, 1, 1, 0, 0, 0] 
+ Data: Jan, Terminating my Chan connections right now due to security concerns! Just wanted to keep you informed!
+2017-12-10 04:33: Received packet from destination 2001
+2017-12-10 04:33: Time to request for approval..
+2017-12-10 04:33:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1026
+ flags [0, 0, 0, 0, 1, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:33: Received packet from destination 2001
+2017-12-10 04:33:  ** TCP PACKET ** 
+ Source Port: 3001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1492
+ flags [0, 0, 0, 1, 0, 0, 0] 
+ Data: MISSION SUCCESS
+2017-12-10 04:33: Received packet from destination 3001
+2017-12-10 04:33:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1644
+ flags [0, 0, 0, 0, 1, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:33: Received packet from destination 2001
+2017-12-10 04:39: *** HOST : Jan *** 
+2017-12-10 04:39: 
+Response from server 
+
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 1234 
+ Destination Port: 2002 
+ Sequence Number: 103 
+ Ack Number: 1481
+ flags [0, 0, 0, 1, 0, 1, 0] 
+ Data: 
+2017-12-10 04:39: Sending frame3 to server
+2017-12-10 04:39: MissionTCP: Jan, You are connected. Start the mission!!
+2017-12-10 04:39: DONE
+2017-12-10 04:39: {'data': " Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n Hot I am not; but hurt I am, and sorely, when I think That thou canst look me in the face and never bleach nor blink-- Me, thine own boyhood's tutor! Go, train the she-wolf's brood Train dogs--that they may rend thee! This, this is gratitude!\n When? When I beat thee, wailing sore yon goats looked on with glee, And bleated; and were dealt with e'en as I had dealt with thee.\n Nay, here are oaks and galingale the hum of housing bees Makes the place pleasant, and the birds are piping in the trees. And here are two cold streamlets; here deeper shadows fall Than yon place owns, and look what cones drop from the pinetree tall.\n Come hither, and trample dainty fern and poppy-blossom sleep On goatskins that are softer than thy fleeces piled three deep. Here will I plant eight milkpails, great Pan's regard to gain, Bound them eight cups full honeycombs shall every cup contain.\n Nay, I want no Lycopas. But hail yon woodsman, do 'Tis Morson--see! his arms are full of bracken--there, by you.\n Ay, you hail him.\n Nay, by the Nymphs, sweet Morson, ne'er for Cometas' sake Stretch thou a point; nor e'er let him undue advantage take. Sibyrtas owns yon wethers; a Thurian is he And here, my friend, Eumares' goats, of Sybaris, you may see.\n The simple truth, most worshipful, is all that I allege I'm not for boasting. But thy wit hath all too keen an edge.\n [Sings] Daphnis the mighty minstrel was less precious to the Nine Than I. I offered yesterday two kids upon their shrine.\n Twin kids hath every goat I milk, save two. My maid, my own, Eyes me and asks 'At milking time, rogue, art thou all alone?'\n Clarissa pelts her goatherd with apples, should he stray By with his goats; and pouts her lip in a quaint charming way.\n Tho' dogrose and anemone are fair in their degree, The rose that blooms by garden-walls still is the rose for me.\n A cushat I will presently procure and give to her Who loves me I know where it sits; up in the juniper.\n Back, lambs, from that wild-olive and be content to browse Here on the shoulder of the hill, beneath the myrtle boughs.\n I have a bowl of cypress-wood I have besides a cup Praxiteles designed them for her they're treasured up.\n Ye locusts that o'erleap my fence, oh let my vines escape Your clutches, I beseech you the bloom is on the grape.\n Those foxes with their bushy tails, I hate to see them crawl Round Micon's homestead and purloin his grapes at evenfall.\n Have you forgot that cudgelling I gave you? At each stroke You grinned and twisted with a grace, and clung to yonder oak.\n There's some one ill--of heartburn. You note it, I presume, Morson? Go quick, and fetch a squill from some old beldam's tomb.\n May Himera flow, not water, but milk and may'st thou blush,Crathis, with wine; and fruitage grow upon every rush.\n My goats are fed on clover and goat's-delight they tread On lentisk leaves; or lie them down, ripe strawberries o'er their head.\n I scorn my maid; for when she took my cushat, she did not Draw with both hands my face to hers and kiss me on the spot.\n Lacon, the nightingale should scarce be challenged by the jay, Nor swan by hoopoe but, poor boy, thou aye wert for a fray.\n By Pan I will! Snort, all my herd of he-goats I shall now O'er Lacon, shepherd as he is, crow ye shall soon see how. I've won, and I could leap sky-high! Ye also dance and skip, My horned ewes in Sybaris' fount to-morrow all shall dip. Ho! you, sir, with the glossy coat and dangerous crest; you dare Look at a ewe, till I have slain my lamb, and ill you'll fare. What! is he at his tricks again? He is, and he will get (Or my name's not Cometas) a proper pounding yet.", 'acknum': 0, 'sourceid': 2001, 'urgpointer': '', 'seqnum': 0, 'flags': [0, 0, 0, 1, 0, 0, 0], 'destid': 2002}
+2017-12-10 04:39: Received file from destination 2001
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 51 
+ Ack Number: 17
+ flags [0, 0, 1, 1, 0, 0, 0] 
+ Data: Jan, Terminating my Chan connections right now due to security concerns! Just wanted to keep you informed!
+2017-12-10 04:39: Received packet from destination 2001
+2017-12-10 04:39: Time to request for approval..
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1410
+ flags [0, 0, 0, 0, 1, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:39: Received packet from destination 2001
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 3001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1240
+ flags [0, 0, 0, 1, 0, 0, 0] 
+ Data: MISSION SUCCESS
+2017-12-10 04:39: Received packet from destination 3001
+2017-12-10 04:39:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1018
+ flags [0, 0, 0, 0, 1, 0, 0] 
+ URG Pointer: 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:39: Received packet from destination 2001
+2017-12-10 04:42: *** HOST : Jan *** 
+2017-12-10 04:42: 
+Response from server 
+
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 1234 
+ Destination Port: 2002 
+ Sequence Number: 182 
+ Ack Number: 1022
+ flags [0, 0, 0, 1, 0, 1, 0] 
+ Data: 
+2017-12-10 04:42: Sending frame3 to server
+2017-12-10 04:42: MissionTCP: Jan, You are connected. Start the mission!!
+2017-12-10 04:42: DONE
+2017-12-10 04:42: {'urgpointer': '', 'destid': 2002, 'data': " Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n Hot I am not; but hurt I am, and sorely, when I think That thou canst look me in the face and never bleach nor blink-- Me, thine own boyhood's tutor! Go, train the she-wolf's brood Train dogs--that they may rend thee! This, this is gratitude!\n When? When I beat thee, wailing sore yon goats looked on with glee, And bleated; and were dealt with e'en as I had dealt with thee.\n Nay, here are oaks and galingale the hum of housing bees Makes the place pleasant, and the birds are piping in the trees. And here are two cold streamlets; here deeper shadows fall Than yon place owns, and look what cones drop from the pinetree tall.\n Come hither, and trample dainty fern and poppy-blossom sleep On goatskins that are softer than thy fleeces piled three deep. Here will I plant eight milkpails, great Pan's regard to gain, Bound them eight cups full honeycombs shall every cup contain.\n Nay, I want no Lycopas. But hail yon woodsman, do 'Tis Morson--see! his arms are full of bracken--there, by you.\n Ay, you hail him.\n Nay, by the Nymphs, sweet Morson, ne'er for Cometas' sake Stretch thou a point; nor e'er let him undue advantage take. Sibyrtas owns yon wethers; a Thurian is he And here, my friend, Eumares' goats, of Sybaris, you may see.\n The simple truth, most worshipful, is all that I allege I'm not for boasting. But thy wit hath all too keen an edge.\n [Sings] Daphnis the mighty minstrel was less precious to the Nine Than I. I offered yesterday two kids upon their shrine.\n Twin kids hath every goat I milk, save two. My maid, my own, Eyes me and asks 'At milking time, rogue, art thou all alone?'\n Clarissa pelts her goatherd with apples, should he stray By with his goats; and pouts her lip in a quaint charming way.\n Tho' dogrose and anemone are fair in their degree, The rose that blooms by garden-walls still is the rose for me.\n A cushat I will presently procure and give to her Who loves me I know where it sits; up in the juniper.\n Back, lambs, from that wild-olive and be content to browse Here on the shoulder of the hill, beneath the myrtle boughs.\n I have a bowl of cypress-wood I have besides a cup Praxiteles designed them for her they're treasured up.\n Ye locusts that o'erleap my fence, oh let my vines escape Your clutches, I beseech you the bloom is on the grape.\n Those foxes with their bushy tails, I hate to see them crawl Round Micon's homestead and purloin his grapes at evenfall.\n Have you forgot that cudgelling I gave you? At each stroke You grinned and twisted with a grace, and clung to yonder oak.\n There's some one ill--of heartburn. You note it, I presume, Morson? Go quick, and fetch a squill from some old beldam's tomb.\n May Himera flow, not water, but milk and may'st thou blush,Crathis, with wine; and fruitage grow upon every rush.\n My goats are fed on clover and goat's-delight they tread On lentisk leaves; or lie them down, ripe strawberries o'er their head.\n I scorn my maid; for when she took my cushat, she did not Draw with both hands my face to hers and kiss me on the spot.\n Lacon, the nightingale should scarce be challenged by the jay, Nor swan by hoopoe but, poor boy, thou aye wert for a fray.\n By Pan I will! Snort, all my herd of he-goats I shall now O'er Lacon, shepherd as he is, crow ye shall soon see how. I've won, and I could leap sky-high! Ye also dance and skip, My horned ewes in Sybaris' fount to-morrow all shall dip. Ho! you, sir, with the glossy coat and dangerous crest; you dare Look at a ewe, till I have slain my lamb, and ill you'll fare. What! is he at his tricks again? He is, and he will get (Or my name's not Cometas) a proper pounding yet.", 'seqnum': 0, 'flags': [0, 0, 0, 1, 0, 0, 0], 'acknum': 0, 'sourceid': 2001}
+2017-12-10 04:42: Received file from destination 2001
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 62 
+ Ack Number: 18
+ flags [0, 0, 1, 1, 0, 0, 0] 
+ Data: Jan, Terminating my Chan connections right now due to security concerns! Just wanted to keep you informed!
+2017-12-10 04:42: Received packet from destination 2001
+2017-12-10 04:42: Time to request for approval..
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1924
+ flags [0, 0, 0, 0, 1, 0, 0] 
+ Data: Execute **PEPPER THE PEPPER**
+2017-12-10 04:42: Received packet from destination 2001
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 3001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1511
+ flags [0, 0, 0, 1, 0, 0, 0] 
+ Data: MISSION SUCCESS
+2017-12-10 04:42: Received packet from destination 3001
+2017-12-10 04:42:  ** TCP PACKET ** 
+ Source Port: 2001 
+ Destination Port: 2002 
+ Sequence Number: 0 
+ Ack Number: 1693
+ flags [0, 1, 1, 0, 1, 0, 0] 
+ URG Pointer:32.76 N, -97.07W 
+ Data: Good job Jan. Meet me at the specified coordinates. Let's party!
+2017-12-10 04:42: Received packet from destination 2001
